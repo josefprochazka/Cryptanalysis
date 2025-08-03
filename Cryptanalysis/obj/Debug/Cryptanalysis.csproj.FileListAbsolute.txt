@@ -1,0 +1,150 @@
+D:\Soukrome\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.exe.config
+D:\Soukrome\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.exe
+D:\Soukrome\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.pdb
+D:\Soukrome\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csprojResolveAssemblyReference.cache
+D:\Soukrome\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.Properties.Resources.resources
+D:\Soukrome\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.GenerateResource.Cache
+D:\Soukrome\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.exe
+D:\Soukrome\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.pdb
+D:\Josef\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.exe
+D:\Josef\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.pdb
+D:\Josef\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.exe
+D:\Josef\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.pdb
+D:\Josef\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csprojResolveAssemblyReference.cache
+D:\Josef\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.Properties.Resources.resources
+D:\Josef\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.GenerateResource.Cache
+D:\Josef\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.MainForm.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.exe
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.pdb
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.exe
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.pdb
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.Properties.Resources.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.GenerateResource.Cache
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.exe
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.pdb
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.exe
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.pdb
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.Properties.Resources.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.GenerateResource.Cache
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csprojResolveAssemblyReference.cache
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.MainView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.TextView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry.CaesarKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry.VigenereKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.AffineKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.VernamKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.SubstitutionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.RailfenceKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.HillKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.PlayfairKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.PolybiusKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.TranspositionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.DoubleTranspositionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.dll
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.pdb
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.xml
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.InformationView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.CommonCryptanalysisView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.SetKeySpaceView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.HistogramVIew.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.NGramView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.SubstitutionManualCryptanalysisVIew.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Costura.dll
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\bin\Debug\Costura.xml
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.Fody.CopyLocal.cache
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.exe
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.pdb
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.exe
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.pdb
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\bin\Debug\Costura.dll
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.dll
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\bin\Debug\Costura.xml
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.HistogramView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.InformationView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.NGramView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.CommonCryptanalysisView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.SetKeySpaceView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.SubstitutionManualCryptanalysisView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.AffineKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry.CaesarKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.DoubleTranspositionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.HillKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.PlayfairKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.PolybiusKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.RailfenceKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.SubstitutionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.TranspositionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.VernamKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry.VigenereKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.MainView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.Properties.Resources.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.TextView.resources
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.GenerateResource.Cache
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.Fody.CopyLocal.cache
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csprojAssemblyReference.cache
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.CoreCompileInputs.cache
+C:\Users\josef.prochazka.AD2003\OneDrive\Diplom\Praktická část\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.CopyComplete
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\bin\Debug\Costura.dll
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.dll
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\bin\Debug\Costura.xml
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csprojAssemblyReference.cache
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.HistogramView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.InformationView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.NGramView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.CommonCryptanalysisView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.SetKeySpaceView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.SubstitutionManualCryptanalysisView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.AffineKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry.CaesarKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.DoubleTranspositionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.HillKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.PlayfairKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.PolybiusKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.RailfenceKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.SubstitutionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.TranspositionKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.VernamKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry.VigenereKeyEntryView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.MainView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.TextView.resources
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.CoreCompileInputs.cache
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.Fody.CopyLocal.cache
+C:\Users\josef.prochazka.AD2003\Desktop\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.CopyComplete
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.AssemblyReference.cache
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.HistogramView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.InformationView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Analysis_Views.NGramView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.CommonCryptanalysisView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.SetKeySpaceView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Cryptanalysis_Views.SubstitutionManualCryptanalysisView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.AffineKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry.CaesarKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.DoubleTranspositionKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.HillKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.PlayfairKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.PolybiusKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.RailfenceKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.SubstitutionKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.TranspositionKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry_Views.VernamKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.Key_Entry.VigenereKeyEntryView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.MainView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.Properties.Resources.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.View.TextView.resources
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.GenerateResource.cache
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.CoreCompileInputs.cache
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.exe
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.pdb
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.exe
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\bin\Debug\Cryptanalysis.pdb
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\bin\Debug\Costura.dll
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.dll
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\bin\Debug\Costura.xml
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptanalysis.csproj.Fody.CopyLocal.cache
+C:\Users\josef.prochazka\Downloads\PRO0102_FEI_N2647_1801T064_2019_priloha\Příloha\Zdrojový kód\Cryptanalysis\Cryptanalysis\obj\Debug\Cryptana.D898F776.Up2Date

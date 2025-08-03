@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cryptanalysis.AnalysisUtilities" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Analysis\AnalysisUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.CipherIdentifying" Collapsed="true">
+    <Position X="35.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Model\Analysis\CipherIdentifying.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.FrequencyAnalysis" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAACAAUAAAAAAAQgCAACAAAAAAAAA=</HashCode>
+      <FileName>Model\Analysis\FrequencyAnalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Statistics" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAICAAAAAAAAAEAIgQAAAAQAACBAAAAAAAAAA=</HashCode>
+      <FileName>Model\Analysis\Statistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.CipherTable" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAABAAAAAIAAAAABQAAAQAAAAJCEBABCAAABAgA=</HashCode>
+      <FileName>Model\Cipher tools\CipherTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Coordinates" Collapsed="true">
+    <Position X="31.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Cipher tools\CipherTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Key" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACBAYAAAAgCAEAAAAAAAIAAEAAAEAAAAAAAA=</HashCode>
+      <FileName>Model\Cipher tools\Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.AffineKey" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAMAAAA=</HashCode>
+      <FileName>Model\Cipher tools\Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.DoubleTranspositionKey" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Cipher tools\Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.AbstractCiphers" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAAAAAAAAAoAAAAAEAgACAACAAAgGAAAAIAA=</HashCode>
+      <FileName>Model\Ciphers\AbstractCiphers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Affine" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAQAAAAAACACAAAAAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\Affine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Caesar" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\Caesar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.DoubleTransposition" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\DoubleTransposition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Hill" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAAEAAAAAAAAAAAEQIAAgAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\Hill.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Playfair" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCIAAABEAAAAAADAAAAAYAAQAQhAAIAAQAAgAAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\Playfair.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Polybius" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAQAAAAAAAACAAAAAAgAAA=</HashCode>
+      <FileName>Model\Ciphers\Polybius.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.RailFence" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABCAAAAAAAAAAAAQAAAAAAAgAAAAIAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\RailFence.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Substitution" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAQAAAAAACACAAAEAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\Substitution.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Transposition" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAQAAoAAACAABAAACAAAAE=</HashCode>
+      <FileName>Model\Ciphers\Transposition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Vernam" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAEACAAAAAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\Vernam.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Vigenere" Collapsed="true">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQEAABAAEACAAAAAAAAAA=</HashCode>
+      <FileName>Model\Ciphers\Vigenere.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.CommonConstants" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQQAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Common\CommonConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.CommonSettings" Collapsed="true">
+    <Position X="30" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAAAAAEABAACAAAAAAABAAAAAABAGAAAAAgA=</HashCode>
+      <FileName>Model\Common\CommonSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.AbstractCryptanalysis">
+    <Position X="9.25" Y="0.5" Width="2.75" />
+    <Members>
+      <Method Name="AbstractCryptanalysis" Hidden="true" />
+      <Field Name="allKeys" Hidden="true" />
+      <Field Name="bestFitness" Hidden="true" />
+      <Field Name="bestGlobalFitness" Hidden="true" />
+      <Field Name="bestGlobalKey" Hidden="true" />
+      <Field Name="bestChiSquare" Hidden="true" />
+      <Field Name="bestKey" Hidden="true" />
+      <Field Name="cipher" Hidden="true" />
+      <Property Name="CryptanalysisInformation" Hidden="true" />
+      <Method Name="GenerateNeighbors" Hidden="true" />
+      <Method Name="GetAllTranspositionKeyPermutations" Hidden="true" />
+      <Field Name="keyPermutations" Hidden="true" />
+      <Field Name="neighbors" Hidden="true" />
+      <Field Name="random" Hidden="true" />
+      <Field Name="statistics" Hidden="true" />
+      <Field Name="stuck" Hidden="true" />
+      <Field Name="substitutionCipher" Hidden="true" />
+      <Field Name="tempDecryptedText" Hidden="true" />
+      <Field Name="tempFitness" Hidden="true" />
+      <Field Name="tempChiSquare" Hidden="true" />
+      <Field Name="tempNeighbor" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIMABABAAAAAAhBAAAABAAACAAggIAAIAQagCIhAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\AbstractCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.CryptanalysisInformation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCAAAAAAAAAEQAQAAAAAAAAAABAAAAQAAAAAAIEAAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\AbstractCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Cryptanalysis.AffineCipherCryptanalysis" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\AffineCipherCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.CaesarCryptanalysis" Collapsed="true">
+    <Position X="14.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAGAAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\CaesarCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.112" />
+  </Class>
+  <Class Name="Cryptanalysis.DoubleTranspositionCipherCryptanalysis" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\DoubleTranspositionCipherCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.PlayfairCipherCryptanalysis" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\PlayfairCipherCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.SubstitutionCipherCryptanalysis" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\SubstitutionCipherCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.TranspositionCipherCryptanalysis" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\TranspositionCipherCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.VigenereCipherCryptanalysis" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAQAAAAAAAAAAAAAEAAAAIAABCAAAA=</HashCode>
+      <FileName>Model\Cryptanalysis\VigenereCipherCryptanalysis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="Cryptanalysis.Analysis" Collapsed="true">
+    <Position X="31.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAQAAABAQIAAgECAA=</HashCode>
+      <FileName>Model\Main classes\Analysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Cryptanalysis" Collapsed="true">
+    <Position X="26" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EgQAAAAAAAAIAAQQAAAAAEAEAAAAAAAAAAEAEAAAAAA=</HashCode>
+      <FileName>Model\Main classes\Cryptanalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Decryption" Collapsed="true">
+    <Position X="37" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAACAAAAEAAAFgAgAgAAAAgAQAAgAACAAE=</HashCode>
+      <FileName>Model\Main classes\Decryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Encryption" Collapsed="true">
+    <Position X="30" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAQAAIAACAoAACAEAAAAAAAAACAAABAABAAAAACE=</HashCode>
+      <FileName>Model\Main classes\Encryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.AlphabetOperations" Collapsed="true">
+    <Position X="6.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAABAAQAAAAgEAAAAAgAAAIAAAAiAAA=</HashCode>
+      <FileName>Model\Operations\AlphabetOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.ListOperations" Collapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAADAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Operations\ListOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.MathematicalOperations" Collapsed="true">
+    <Position X="8.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAQAEAAAAAAAAACQgAIAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Model\Operations\MathematicalOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.RandomsOperations" Collapsed="true">
+    <Position X="31.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAQAAAQAAAAAAAAAAAAAAAAAAAAAwAAAAAAAA=</HashCode>
+      <FileName>Model\Operations\RandomsOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.TableOperations" Collapsed="true">
+    <Position X="8.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEAACAAAAAAAAIAAAAAgCRAEEASAAAAAAAAAA=</HashCode>
+      <FileName>Model\Operations\TableOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.TextOperations" Collapsed="true">
+    <Position X="6.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABgMFEQAAAAAAIBACCAACAAACAAARAwgAAAIAMAAEg=</HashCode>
+      <FileName>Model\Operations\TextOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Program" Collapsed="true">
+    <Position X="28.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.FormsUtilities" Collapsed="true">
+    <Position X="31.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAgAAAAAAAAKQAAAAACAAgAkQAIAQACAACAADA=</HashCode>
+      <FileName>View\FormUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.MainView" Collapsed="true">
+    <Position X="30" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAAAACACAAAQCAAgAiAAAAAQAAAAAAAA=</HashCode>
+      <FileName>View\MainView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.TextView" Collapsed="true">
+    <Position X="33.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AxBAwlnVjzIAjUCISwCZgAgGABDOECAQIAITMCgWIok=</HashCode>
+      <FileName>View\TextView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Properties.Resources" Collapsed="true">
+    <Position X="33.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQABEAEAAQBAABAIAAAACACAAMA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.Properties.Settings" Collapsed="true">
+    <Position X="37" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Analysis_Views.HistogramView" Collapsed="true">
+    <Position X="35.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACIAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>View\Analysis Views\HistogramView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Analysis_Views.InformationView" Collapsed="true">
+    <Position X="37" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAACAAAAiAAAAEAAAAAAAAAQACAQ=</HashCode>
+      <FileName>View\Analysis Views\InformationView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Analysis_Views.NGramView" Collapsed="true">
+    <Position X="35.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQgAAAEASAgARgBAKSCQRACACAAABAAADAAAAMIgBA=</HashCode>
+      <FileName>View\Analysis Views\NGramView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Analysis_Views.NGramData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAQgAEAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\Analysis Views\NGramView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Cryptanalysis.View.Cryptanalysis_Views.CommonCryptanalysisView" Collapsed="true">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACACAAAAAAAACAAAACAAAAAAEABAAAAAAAAAA=</HashCode>
+      <FileName>View\Cryptanalysis Views\CommonCryptanalysisView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Cryptanalysis_Views.SetKeySpaceView" Collapsed="true">
+    <Position X="35.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAADAAAACAAAAEAAAAAAAgAAAAAA=</HashCode>
+      <FileName>View\Cryptanalysis Views\SetKeySpaceView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Cryptanalysis_Views.SubstitutionManualCryptanalysisView" Collapsed="true">
+    <Position X="28.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xEBAAAAACIqIjCAACCAQERGBAAABASIiKj+F/r/ATU=</HashCode>
+      <FileName>View\Cryptanalysis Views\SubstitutionManualCryptanalysisVIew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.AffineKeyEntryView" Collapsed="true">
+    <Position X="28.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAASGAJBACAQCAAQACAACAAICIggghAQAAAAg=</HashCode>
+      <FileName>View\Key Entry Views\AffineKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.DoubleTranspositionKeyEntryView" Collapsed="true">
+    <Position X="28.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABSCAAABAAACAQQBCAAAAAIAIgCAgAQAAAAg=</HashCode>
+      <FileName>View\Key Entry Views\DoubleTranspositionKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.HillKeyEntryView" Collapsed="true">
+    <Position X="33.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAChVAATGRAEFkIQCoAQICAAEAAKRIgAwkARAAkUg=</HashCode>
+      <FileName>View\Key Entry Views\HillKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.PlayfairKeyEntryView" Collapsed="true">
+    <Position X="37" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAABAgTCAABCgQCCAAQACAEAAIIEIkAAiAQAAAIg=</HashCode>
+      <FileName>View\Key Entry Views\PlayfairKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.PolybiusKeyEntryView" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCEAAABAgSCAAACgUCCAAQBCIAAAAIAIkAAgAQAAAIg=</HashCode>
+      <FileName>View\Key Entry Views\PolybiusKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.RailfenceKeyEntryView" Collapsed="true">
+    <Position X="30" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASCAAAAAAACAAQACAAAAIIAIgAAiAQAAAAg=</HashCode>
+      <FileName>View\Key Entry Views\RailfenceKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.SubstitutionKeyEntryView" Collapsed="true">
+    <Position X="26.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASDAIBAAAACAAQACAIAAIICIgAgjAQAAAAg=</HashCode>
+      <FileName>View\Key Entry Views\SubstitutionKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.TranspositionKeyEntryView" Collapsed="true">
+    <Position X="35.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAA0yCAUAAAQACEAQACAAAAIKAIgCBiAQAAAAg=</HashCode>
+      <FileName>View\Key Entry Views\TranspositionKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry_Views.VernamKeyEntryView" Collapsed="true">
+    <Position X="37" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASCAAAAAAACEAAACAAAAAAAIgAAgAQAAAAA=</HashCode>
+      <FileName>View\Key Entry Views\VernamKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry.CaesarKeyEntryView" Collapsed="true">
+    <Position X="33.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABQAASCAIBAIBACAAQICAAAAAICIoAEhkQAAAAg=</HashCode>
+      <FileName>View\Key Entry Views\CaesarKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cryptanalysis.View.Key_Entry.VigenereKeyEntryView" Collapsed="true">
+    <Position X="26.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASCAAAAAAACAAQACAAAAIIAIgAAiAQAAAAg=</HashCode>
+      <FileName>View\Key Entry Views\VigenereKeyEntryView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Cryptanalysis.ICryptanalysis" Collapsed="true">
+    <Position X="1.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAACgAAA=</HashCode>
+      <FileName>Model\Interfaces\ICryptanalysis.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Cryptanalysis.IEncryption" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Interfaces\IEncryption.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Cryptanalysis.TranspositionType" Collapsed="true">
+    <Position X="35.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Cryptanalysis.TableType" Collapsed="true">
+    <Position X="33.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Cryptanalysis.CurrentAlphabet" Collapsed="true">
+    <Position X="28.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Cryptanalysis.TableAction" Collapsed="true">
+    <Position X="31.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Model\Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Cryptanalysis.CryptanalysisMeasureType" Collapsed="true">
+    <Position X="26.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Model\Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Cryptanalysis.KeyType" Collapsed="true">
+    <Position X="30" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
